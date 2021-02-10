@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
  
 #EXTINF:-1, tvg-id=RCTI.id tvg-name=RCTI ID tvg-logo=https://i.postimg.cc/6QYtM4KX/RCTI.png group-title=LOCAL,RCTI+
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
@@ -8,7 +8,6 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png group-title=LOCAL,SCTV
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sctv
-#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png group-title=LOCAL,SCTV
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png group-title=LOCAL,INDOSIAR
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-205
